@@ -27,7 +27,7 @@
      - 파이레이싱: <https://www.youtube.com/watch?v=37a7cBmCvB8&t=2359s>
 
 ### 게임 이미지
-
+  - ![자동차 슈팅게임](https://user-images.githubusercontent.com/96816327/148963569-f11f2d07-5b2c-475f-81de-0a273adb1af7.PNG)
   
    
    
