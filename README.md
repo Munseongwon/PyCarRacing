@@ -27,10 +27,9 @@
      - 파이레이싱: <https://www.youtube.com/watch?v=37a7cBmCvB8&t=2359s>
 
 ### 게임 이미지
-  - 초기화
     ![캡처2](https://user-images.githubusercontent.com/96816327/148971616-ab102f27-841c-497d-ba43-627f3fd587d4.PNG)
+    - 초기화
     
-  - 최종본
     
   
    
