@@ -28,7 +28,7 @@
 
 ### 게임 이미지
 ![게임](https://user-images.githubusercontent.com/96816327/148972152-65d1b3e1-8ab7-4b24-ad76-17914af0ac41.png)
-    
+![캡처2](https://user-images.githubusercontent.com/96816327/148971616-ab102f27-841c-497d-ba43-627f3fd587d4.PNG)    
     
   
    
